@@ -15,6 +15,22 @@ MonoBehaviour:
   m_Keys:
   - __PanelContainer__rootVisualContainer__e5561a03d1bae4c6e8de19d4d3a7cbfd__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
   - __PanelContainer__rootVisualContainer__e5561a03d1bae4c6e8de19d4d3a7cbfd__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__79de24577bb1b4a75935921efb3de58f__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__79de24577bb1b4a75935921efb3de58f__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__cc88152dd320744b9aadb30f156dd1bf__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__cc88152dd320744b9aadb30f156dd1bf__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__d0ee211b4eb8843dab60f49ee75f265c__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__d0ee211b4eb8843dab60f49ee75f265c__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__74feb48a9c60c4f24a8f69cd95907cc6__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__74feb48a9c60c4f24a8f69cd95907cc6__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
   m_Values:
-  - '{"position":{"x":508.5,"y":104.5,"z":0.0},"scale":{"x":0.5063830018043518,"y":0.5063830018043518,"z":1.0}}'
-  - '{"m_Version":39,"m_SelectedElementsArray":["e432a728-8007-49e3-afa9-d461e618ccc5"]}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":112.5,"y":166.0,"z":0.0},"scale":{"x":0.25,"y":0.25,"z":1.0}}'
+  - '{"m_Version":47,"m_SelectedElementsArray":["fb2c2982-f5c5-49c3-a662-2a29ab84038c","19f63efe-fd52-4742-a013-f85c986877db","f3eaeeb5-6fd4-4895-9460-011cf918757f","d48d9b8b-df03-4011-9bb0-dec307915688","223a86d3-6eea-4928-a755-5ce17c34a6a1","d67380cc-4c93-4b1e-b1c7-49a250afd147"]}'

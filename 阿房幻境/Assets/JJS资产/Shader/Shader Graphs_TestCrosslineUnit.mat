@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_TestCrosslineUnit
+  m_Shader: {fileID: -6465566751694194690, guid: 74feb48a9c60c4f24a8f69cd95907cc6,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_6B8D267C_Texture_1:
+        m_Texture: {fileID: 2800000, guid: e050ee5340d524750a0ab3752de315b2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8A9F7361_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 760dc1c127832429891e29ca5d6dd557, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_C222BEE2_Texture_1:
+        m_Texture: {fileID: 2800000, guid: e050ee5340d524750a0ab3752de315b2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_B24A4B0B: -0.7
+    m_Colors:
+    - Color_721B2A22: {r: 0, g: 3.2496119, b: 3.9533494, a: 0}

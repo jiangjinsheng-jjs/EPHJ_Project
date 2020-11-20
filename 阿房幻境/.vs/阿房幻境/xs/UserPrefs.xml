@@ -1,22 +1,10 @@
 ﻿<Properties StartupConfiguration="{AEC5372A-51BA-FBD7-3B80-A7D5445504CD}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DuplicateMaster.cs">
-    <Files>
-      <File FileName="Assets/DuplicateMaster.cs" Line="130" Column="1" />
-      <File FileName="../../Documents/GitHub/Engine/工程/引擎课工程/Assets/03.碰撞和物理（一）/ScoreB.cs" Line="1" Column="1" />
-      <File FileName="Assets/Knife/HDRP Outline/Shaders/HDRPOutline.hlsl" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="阿房幻境" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Knife" expanded="True">
-                <Node name="HDRP Outline" expanded="True">
-                  <Node name="Shaders" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="DuplicateMaster.cs" selected="True" />
-            </Node>
+            <Node name="Assets" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -24,7 +12,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="21f8f7c6-8108-41c8-8f5b-9bb82607a556" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4ee8e2a3-dcb0-4483-a3e3-872ff17e90fa" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
