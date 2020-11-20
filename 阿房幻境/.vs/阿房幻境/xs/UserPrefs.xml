@@ -1,10 +1,17 @@
 ﻿<Properties StartupConfiguration="{AEC5372A-51BA-FBD7-3B80-A7D5445504CD}|">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JJS资产/PortalSize.cs">
+    <Files>
+      <File FileName="Assets/JJS资产/PortalSize.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="阿房幻境" expanded="True">
-            <Node name="Assets" expanded="True" selected="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="JJS资产" expanded="True">
+                <Node name="PortalSize.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
